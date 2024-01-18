@@ -1,1 +1,1 @@
-# Job_Placement_prediction_model
+# Job-Placement-Prediction-ML-model
